@@ -18,6 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="end"
         android:text="Hello World"
+        android:layout_marginEnd="40dp"
         android:textColor="#CC3D3D"
         android:textSize="22sp"
         />
